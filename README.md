@@ -1,6 +1,6 @@
 <!-- Banner -->
-![Banner-dark-mode](#gh-dark-mode-only)
-![Banner-light-mode-test](#gh-light-mode-only)
+![Banner-dark-mode](https://github.com/Khaledik/Khaledik/blob/main/assets/Banner_dark_khaledik.png?raw=true#gh-dark-mode-only)
+![Banner-light-mode-test](https://github.com/Khaledik/Khaledik/blob/main/assets/Banner_light_khaledik.png#gh-light-mode-only)
 
 
 <p align="center">
@@ -12,8 +12,8 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="#gh-light-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_dark.gif#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_light.gif#gh-light-mode-only" width="360px"/>
 
 
 <br>
@@ -88,7 +88,7 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 
 <div align = "center">
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">⌨️ Languages and Tools</h2>
 
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
