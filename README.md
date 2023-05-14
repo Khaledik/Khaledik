@@ -78,8 +78,8 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/Khaledik/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/Khaledik/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledik&show_icons=true&theme=tokyonight)](https://github.com/khaledik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledik&layout=compact&theme=tokyonight)](https://github.com/khaledik/github-readme-stats)
 
 </div>
 <br>
@@ -132,7 +132,7 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Khaledik&theme=tokyonight-duo&hide_border=true" alt="Khaledik" width="390"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Khaledik&theme=tokyonight&hide_border=true" alt="Khaledik" width="390"/>
 </p>
 </details>
 
@@ -140,7 +140,7 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Khaledik&theme=discord" alt="Khaledik" />
+<img src="https://github-profile-trophy.vercel.app/?username=Khaledik&theme=tokyonight" alt="Khaledik" />
 </p>
 </details>
 
@@ -152,22 +152,9 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 <a href="https://github.com/Khaledik/booki"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Khaledik&repo=booki&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="booki"></a>
 <a href="https://github.com/Khaledik/portfolio"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Khaledik&repo=portfolio&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="portfolio"></a>
 
-  
-  
-
-
 <!-- BLOG-POST-LIST:END -->
 </p>
 </details>
 
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Khaledik&show_icons=true&theme=radical&count_private=true" alt="Khaledik" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledik&layout=compact&theme=radical" alt="Khaledik" height="165">
-</p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Khaledik.Khaledik">
-</details>
-  
-  
+   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
