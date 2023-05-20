@@ -156,8 +156,8 @@ I'm a web developer student at Openclassrooms. My goal is to develop scalable, m
 <!-- BLOG-POST-LIST:END -->
 </p>
 </details>
-
-![Khaledik](https://komarev.com/ghpvc/?username=khaledik&color=1200e0&style=flat-square)
-
+<br>
+![Khaledik](https://komarev.com/ghpvc/?username=khaledik&color=1200e0&style=for-the-badge)
+<br>
    
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
