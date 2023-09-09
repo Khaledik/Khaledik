@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I'm a web developer student at Openclassrooms. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+I'm a web developer. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
