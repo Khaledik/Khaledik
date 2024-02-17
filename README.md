@@ -12,11 +12,10 @@
 
 <div>
   <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_dark.gif#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_light.gif#gh-light-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_dark.gif#gh-dark-mode-only" width="320px"/>
+<img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_light.gif#gh-light-mode-only" width="320px"/>
 
 <br>
-
 - 🔭 I’m currently studying on **becoming a Software Engineer**.
 
 - 🌱 I’m currently learning **Javascript & PHP**.
