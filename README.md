@@ -16,16 +16,16 @@
 <img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_light.gif#gh-light-mode-only" width="320px"/>
 
 <br>
-- 🔭 I’m currently studying on **becoming a Software Engineer**.
 
-- 🌱 I’m currently learning **Javascript & PHP**.
+<ul align="left">
+  <li>🔭 I’m currently studying on **becoming a Software Engineer**.</li>
+  <li>🌱 I’m currently learning **Javascript & PHP**.</li>
+  <li>🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Khaledik)!.</li>
+  <li>📫 How to reach me: on [**Linkedin**](https://linkedin.com/in/khaled-i-8a220b242)!.</li>
+  <li>📫 How to reach me: on [**Linkedin**](https://linkedin.com/in/khaled-i-8a220b242)!.</li>
+  <li>👯 I’m looking to collaborate on **developing open-source or web 2 & 3 projects**.</li>
+</ul>
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Khaledik)!.
-
-- 📫 How to reach me: on [**Linkedin**](https://linkedin.com/in/khaled-i-8a220b242)!.
-
-- 👯 I’m looking to collaborate on **developing open-source or web 2 & 3 projects**.
-- 
 </div>
 <br>
 
