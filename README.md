@@ -22,26 +22,11 @@
   <li>🌱 I’m currently learning **Javascript & PHP**.</li>
   <li>🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Khaledik)!.</li>
   <li>📫 How to reach me: on [**Linkedin**](https://linkedin.com/in/khaled-i-8a220b242)!.</li>
-  <li>📫 How to reach me: on [**Linkedin**](https://linkedin.com/in/khaled-i-8a220b242)!.</li>
   <li>👯 I’m looking to collaborate on **developing open-source or web 2 & 3 projects**.</li>
 </ul>
 
 </div>
 <br>
-
-
-###
-
-
-<h1 align="center">📫 Connect with me</h1>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/khaled-i-8a220b242" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
