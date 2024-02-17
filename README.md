@@ -5,6 +5,7 @@
 
 ###
 
+<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <p align="center">I'm a web developer. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand.</p>
 
 <br>
@@ -104,10 +105,6 @@
 <!-- BLOG-POST-LIST:END -->
 </p>
 </details>
-
-###
-
-<img src="https://raw.githubusercontent.com/khaledik/khaledik/output/snake.svg" alt="Snake animation" />
 
 ###
 
