@@ -10,7 +10,8 @@
 
 <br>
 
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<div>
+  <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_dark.gif#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://github.com/Khaledik/Khaledik/blob/main/assets/Hand_coding_light.gif#gh-light-mode-only" width="360px"/>
 
@@ -25,12 +26,14 @@
 - 📫 How to reach me: on [**Linkedin**](https://linkedin.com/in/khaled-i-8a220b242)!.
 
 - 👯 I’m looking to collaborate on **developing open-source or web 2 & 3 projects**.
-
+- 
+</div>
 <br>
+
 
 ###
 
-<br>
+
 <h1 align="center">📫 Connect with me</h1>
 
 ###
